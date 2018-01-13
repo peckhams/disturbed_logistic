@@ -1,0 +1,2 @@
+# disturbed_logistic
+This model computes and plots a stochastic process in time for the dynamics of a single-species population.  Disturbances of random magnitude occur at random times given by a Poisson event process.  Between disturbances the population experiences deterministic, logistic growth.  When a disturbance occurs, the population size is multiple by a random disturbance factor between 0 and 1.  See Peckham, Waymire and De Leenheer (2018) for details.
